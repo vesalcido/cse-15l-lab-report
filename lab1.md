@@ -4,7 +4,7 @@
   the lab computer, in which VS Code is already downloaded.
   If using your personal computer, you would need to download VS Code on the VS Code website and there should be an option to download the application
   on your computer. After downloading VS Code, we were advised to take a screenshot to prove that all of us in our group were on the same page, which 
-  should look similar to this : ![Image](Screen Shot 2023-04-08 at 5.14.51 PM.png)
+  should look similar to this : ![Image](Screen%20Shot%202023-04-08%20at%205.14.51%20PM.png)
   
 ## Remotely Connecting
 - The next step that we have to take would be that once we have VS code open, we need to find where to open the terminal. Once we have the terminal open, we are supposed to use the commmand *ssh* and right after type your account associated with our cse 15L lab. Once we physically type out the first time around, *ssh cse15lsp23( this part contains your specific info letters)@ieng6.ucsd.edu* we will then get a specific message that asks the user if they are certain they want to connect to the server. After you type out *yes*, you will then get a message that greets you and gives you information on certain information found on your computer. So if you were to do this it would look something like this: ![Image](Screen Shot 2023-04-08 at 9.58.18 PM.png)
