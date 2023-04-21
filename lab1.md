@@ -1,7 +1,7 @@
 # Lab Report 1
 ## Installing VS Code
 - When getting into the lab, the first step we have to do to get everything set up is installing VS code either on your personal computer or using 
-  the lab computer, in which VS Code is already downloaded.
+  the lab computer, which could be found at this [VSCode](https://code.visualstudio.com/) link, but in this case, VS Code is already downloaded.
   If using your personal computer, you would need to download VS Code on the VS Code website and there should be an option to download the application
   on your computer. After downloading VS Code, we were advised to take a screenshot to prove that all of us in our group were on the same page, which 
   should look similar to this: ![Image](Screen%20Shot%202023-04-08%20at%205.14.51%20PM.png)
@@ -11,4 +11,4 @@
 
 ## Trying Some Commands
 - In the final step of the lab, we were able to test out different commands on the terminal. A couple of the commands that were able to test out were *cd , ls, pwd, mkdir,* and *cp*. Some specific commands that were tested on the terminal were *cd ~, cd, ls -lat, ls -a, 
-cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ ,* and *cat /home/linux/ieng6/cs15lsp23/public/hello.txt*. I did try out mos tof them on my terminal bu the most interesting one I tested was *ls- lat* because it shocked me on how much information it printed out. I noticed that *ls -lat* produced some type of list that had lots of what it looked like access information to certain apps off my computer, which caught my eye with the long list it produced. The *ls -lat* command ended up looking like this on my terminal: ![Image](Screen%20Shot%202023-04-08%20at%2011.18.20%20PM.png)
+cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ ,* and *cat /home/linux/ieng6/cs15lsp23/public/hello.txt*. The commands that were mentioned, for example, the command *cd* displays the name of the current directory or changes the current directory, *ls-la* lists all the files and directories in the current working directory or a directory that the user specifies, the *-l* option uses a long listing format which adds information about the permissions, size, last modified, etc. associated with the file or directory, the *-a* option lists directories starting with ‘.’ (the hidden directories). I did try out most of them on my terminal but the most interesting one I tested was *ls- lat* because it shocked me on how much information it printed out. I noticed that *ls -lat* produced some type of list that had lots of what it looked like access information to certain apps off my computer, which caught my eye with the long list it produced. The *ls -lat* command ended up looking like this on my terminal: ![Image](Screen%20Shot%202023-04-08%20at%2011.18.20%20PM.png)
